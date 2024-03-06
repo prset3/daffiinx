@@ -1,4 +1,4 @@
-# sum-thuongdieu
-Một thư viện giúp bạn tính tổng của 2 số bất kỳ
+# Daffiinx
+tai kucing
 
-Đơn giản, dễ dùng, cực kỳ nhẹ
+Ra bisa bisa
